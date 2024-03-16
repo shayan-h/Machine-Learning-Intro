@@ -1,5 +1,6 @@
 """
-
+This code is a forward propagation of a single layer neural network. It uses the weights and biases from a previous lab 
+to make predictions on the coffee data. The code also applies a threshold to make a decision on the predictions.
 """
 
 import numpy as np
